@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\администратор\desktop\стажировка\project16\project16\source.cpp(1): fatal error C1083: Cannot open include file: 'dlib/image_processing.h': No such file or directory
